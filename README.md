@@ -4,17 +4,22 @@
 **nd5a/nd5a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Persuing My B. Tech Journey From Uka Tarsadia University in **Surat, Gujarat.**
+- 🔭 I’m looking to Contribute in **Open Source.**
+- 💡 Intersted to enhancing my skills in **programming** and **software development**.
+- 🙋‍♂️ Know More **[About Me](https://dhruvil-nakrani-pf1.netlify.app/)**
+- 📧 Feel Free to Reach out to me here: **[Email](mailto:nakranidhruvil77@gmail.com)**
 
+---
 
+### 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,django,flask,git,github,sklearn,mongodb,mysql&perline=5)](https://dhruvil-nakrani-pf1.netlify.app/)
+
+---
+<!--
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 -->
@@ -40,7 +45,7 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nd5a&repo=iphone-landing-page&theme=transparent&border_color=599200"></p>
 
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nd5a&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
@@ -48,7 +53,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nd5a&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
-
+-->
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <!-- <p align="center">
 <a href="https://stackoverflow.com/users/14602915/trinib?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=14602915&theme=dark">
