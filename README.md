@@ -1,10 +1,13 @@
-## Hi there 👋
+## <p align="center">Hi there 👋, I'm Dhruvil Nakrani</p>
 
 <!--
 **nd5a/nd5a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+<p align="center">
+A Full Stack Python Enthusiast, from India.</p>
+
 ### 👨‍💻 About Me
 
 - 🌱 Persuing My B. Tech Journey From Uka Tarsadia University in **Surat, Gujarat.**
@@ -33,9 +36,10 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nd5a&show_icons=true&theme=transparent&border_color=599200">
 </p>
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=nd5a&theme=transparent&border=599200&border_color=599200"></p>
+<img src="https://streak-stats.demolab.com/?user=nd5a&theme=transparent&border_color=599200">
+</p>-->
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
@@ -70,3 +74,9 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=nd5a&color=0E9C47&style=for-the-badge">-->
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+### 💻 Reach Me out:
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhruvil-nakrani/)
+[![Contact](https://skillicons.dev/icons?i=twitter)](https://x.com/DhruvilNakrani3)
+[![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dhruvil.nakrani/)
