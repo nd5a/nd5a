@@ -76,7 +76,7 @@ A Full Stack Python Enthusiast, from India.</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-### 💻 Reach Me out:
+### 🔗 Reach Me out:
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhruvil-nakrani/)
 [![Contact](https://skillicons.dev/icons?i=twitter)](https://x.com/DhruvilNakrani3)
 [![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dhruvil.nakrani/)
