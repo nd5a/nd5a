@@ -32,14 +32,15 @@ A Full Stack Python Enthusiast, from India.</p>
 
 <!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/yogeshwaran01/github-stats-terminal-style -->
 📊 GitHub Stats:
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=nd5a&theme=transparent&border_color=599200">
+</p>
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nd5a&show_icons=true&theme=transparent&border_color=599200">
 </p>
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=nd5a&theme=transparent&border_color=599200">
-</p>-->
+
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
@@ -47,8 +48,8 @@ A Full Stack Python Enthusiast, from India.</p>
 </p>
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
- <a href="https://github.com/nd5a/iphone-landing-page">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nd5a&repo=iphone-landing-page&theme=transparent&border_color=599200"></p>
+ <a href="https://github.com/nd5a/Blog-Website-Using-MERN">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nd5a&repo=Blog-Website-Using-MERN&theme=transparent&border_color=599200"></p>
  </a>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -
 <div align="center">
