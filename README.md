@@ -36,11 +36,11 @@ A Full Stack Python Enthusiast, from India.</p>
 <p align="left">
 <img src="https://streak-stats.demolab.com/?user=nd5a&theme=transparent&border_color=599200">
 </p>
+
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nd5a&show_icons=true&theme=transparent&border_color=599200">
 </p>
-
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
