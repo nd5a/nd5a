@@ -10,7 +10,7 @@ A Full Stack Python Enthusiast, from India.</p>
 
 ### 👨‍💻 About Me
 
-- 🌱 Persuing My B. Tech Journey From Uka Tarsadia University in **Surat, Gujarat.**
+- 🌱 Passionate Python-AIML Developer from **Surat, Gujarat.**
 - 🔭 I’m looking to Contribute in **Open Source.**
 - 💡 Intersted to enhancing my skills in **programming** and **software development**.
 - 🙋‍♂️ Know More **[About Me](https://dhruvil-nakrani-pf1.netlify.app/)**
